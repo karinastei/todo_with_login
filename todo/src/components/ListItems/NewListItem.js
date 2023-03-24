@@ -18,4 +18,4 @@ const NewListItem = (newListItemData) => {
         </div>
     )
 }
-export default NewListItem
+export default NewListItem;

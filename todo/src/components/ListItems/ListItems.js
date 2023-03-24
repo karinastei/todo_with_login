@@ -32,4 +32,4 @@ const ListItems = (props) => {
     );
 };
 
-export default ListItems
+export default ListItems;
